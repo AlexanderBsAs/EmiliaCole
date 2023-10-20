@@ -1,0 +1,63 @@
+ body{ 
+    background-color: rgb(255, 255, 255);
+    background-image: url('../images/emilia-home.jpg');
+    background-position: right center;
+    width: 100%;
+    height:100%;;
+    background-repeat: no-repeat;
+    background-size: 1000px 800px;
+    background-attachment: scroll;
+    /* border: dashed 3px rgb(255, 0, 0); */
+}
+/* background-color: rgb(255, 255, 255);
+background-image: url('../images/emilia-home.jpg');
+background-position: right center;
+width: 100%;
+height: 700px;;
+background-repeat: no-repeat;
+background-size: contain;
+border: dashed 3px rgb(255, 0, 0); */
+
+/* .imagen{
+    border: dashed 3px yellow;
+    padding:100px 200px;
+    background-position: right top;
+    
+} */
+.titulo{
+    background-color: rgba(240, 248, 255,0.5);
+    font-size: 45px;
+    margin-top: 150px;
+    /* border: dashed 3px rgb(255, 0, 0); */
+    
+}
+
+.hola {
+    width: 50%;
+    /* border: dashed 3px blue; */
+}
+.redes li{ 
+    display:inline;
+    /* border: dashed 3px blue; */
+}
+
+.nombre{
+    text-align:justify;
+    font-weight: lighter;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    margin-top: 130px;
+/*     border: dashed 3px blue;
+ */}
+
+.barra{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+/*     border: dashed 3px blue;
+ */}
+
+ul li a{
+    color: black;
+/*     border: dashed 3px blue;
+ */}
