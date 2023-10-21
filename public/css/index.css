@@ -63,3 +63,6 @@ ul li a{
     color: black;
 /*     border: dashed 3px blue;
  */}
+  *{
+    margin-left: 0px;
+ } 
